@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student at SFU"
   location         : "Vancouver, Canada"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=n9C6UcgAAAAJ"
   email            : minoru_higa@sfu.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
