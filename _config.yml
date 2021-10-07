@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Minoru Higa"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/mhigar/minoruhiga.github.io/tree/master/images/PhotoMH.png"
   bio              : "Ph.D. Student at SFU"
   location         : "Vancouver, Canada"
   employer         :
