@@ -16,7 +16,7 @@ author_profile: true
 **Working Papers**
 
 * _"Temperature, Work Time, and Intertemporal Labor Substitution: Evidence from Peru"_
-* _"The persistent effects of COVID-19 on labor outcomes: evidence from Peru"_, with Fernando Aragon and Carlos Ospino (Submitted)
+* _["The persistent effects of COVID-19 on labor outcomes: evidence from Peru"](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html)_, with Fernando Aragon and Carlos Ospino (Submitted)
 
 
 {% if author.googlescholar %}
