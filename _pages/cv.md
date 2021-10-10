@@ -9,13 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Dowload full CV [here]() (coming soon!)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, Simon Fraser University (SFU), 2023 (expected)
+* M.A. in Economics, University of California Santa Barbara (UCSB), 2015.
+* MSc. in Economics, Tilburg University, 2011.
+* BSc. in Economics, Pontificia Universidad Catolica del Peru (PUCP), 2008.
 
-Work experience
+Other Recent Training
+======
+* 2021 [ESTIMATE](http://econ.msu.edu/estimate/index.php) by the Economics Department at Michigan State University.
+* 2021 [SFU Data Fellowships: AI Essentials](https://www.sfu.ca/big-data/data-fellowships/data-fellowships-data-ai.html).
+* 2019 [UC Berkeley/Sloan Summer School in Environmental and Energy Economics](https://www.auffhammer.com/summer-school).
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
