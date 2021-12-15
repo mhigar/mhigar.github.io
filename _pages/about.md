@@ -16,7 +16,7 @@ My fields of interest are Environmental, Labor, and Urban Economics.
 
 **Updates:**
 
-Our [COVID-19 paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) just got a _Revise and Resubmit!!- 
+Our [COVID-19 paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) just got a _Revise and Resubmit!!_ 
 
 Our paper about Migration and Environmental Quality has been accepted for 2022 AAEA Annual Meeting at Anaheim, CA!
 
