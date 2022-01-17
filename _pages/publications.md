@@ -21,7 +21,7 @@ author_profile: true
 
 **Journal Publications**
 * _["The persistent effects of COVID-19 on labor outcomes: evidence from Peru"](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html)_, with Fernando Aragon and Carlos Ospino (forthcoming at _Applied Economics Letters_) <br />
-    %(presented at [UNU-WIDER](https://www.wider.unu.edu/event/covid-19-and-development-effects-and-new-realities-global-south) Development Conference 2021)
+    %(presented at [UNU-WIDER](https://www.wider.unu.edu/event/covid-19-and-development-effects-and-new-realities-global-south) Development Conference 2021)%
     
     
 {% if author.googlescholar %}
