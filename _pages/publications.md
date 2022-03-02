@@ -9,7 +9,7 @@ author_profile: true
 **Work in Progress**
 
 * _"Congestion and Labor Supply: Evidence from Smartphone big data in Mexico"_
-* _"Who work outdoors? Implication for Climate Change and Pandemics using Machine Learning"_, with Daniel Jimenez and Carlos Ospino.
+* _"Who work outdoors? Implication for Climate Change and Pandemics using Machine Learning"_, with Carlos Ospino.
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria.
 
 
