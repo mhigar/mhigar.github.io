@@ -16,6 +16,8 @@ My fields of interest are Environmental, Labor, and Urban Economics.
 
 **Updates:**
 
+My Job Market Paper has been accepted for 2022 AERE Summer Conference at Miami!
+
 Our [COVID-19 paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) just got accepted for publication!
 
 Our paper about Migration and Environmental Quality has been accepted for 2022 AAEA Annual Meeting at Anaheim, CA!
