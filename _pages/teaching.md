@@ -5,13 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##As Instructor:
+## **As Instructor:**
 
-* [Environmental Economics](http://www.sfu.ca/outlines.html?2022/summer/econ/260/d100)
+* [Environmental Economics](http://www.sfu.ca/outlines.html?2022/summer/econ/260/d100) <br />
   ECON 260 (Undergraduate level), Simon Fraser University, Economics, 2022.
 
 
-##As Teaching Assistant (TA):
+## **As Teaching Assistant (TA):**
 * Coming soon.
 
 {% include base_path %}
