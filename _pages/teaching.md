@@ -12,7 +12,14 @@ author_profile: true
 
 
 ## **As Teaching Assistant (TA):**
-* Coming soon.
+* ECON836: Applied Econometrics 
+* ECON334: Data Visualization and Economic Analysis
+* ECON333: Statistical Analysis of Economic Data
+* ECON383: Environmental Economics and Policy
+* ECON260: Environmental Economics
+* ECON220W: Communications in Economics
+* ECON201: Microeconomic Theory I: Competitive Behavior  
+* ECON103: Principles of Microeconomics
 
 {% include base_path %}
 
