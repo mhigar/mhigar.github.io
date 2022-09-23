@@ -21,7 +21,7 @@ Education
 Other Recent Training
 ======
 * 2021 [ESTIMATE](http://econ.msu.edu/estimate/index.php) by the Economics Department at Michigan State University.
-* 2021 [SFU Data Fellowships: AI Essentials](https://www.sfu.ca/big-data/data-fellowships/data-fellowships-data-ai.html).
+* 2021 [SFU Data Fellowships: AI Essentials](https://www.sfu.ca/big-data/data-fellowships/ai-essentials.html).
 * 2019 [UC Berkeley/Sloan Summer School in Environmental and Energy Economics](https://www.auffhammer.com/summer-school).
 
 <!-- Work experience
