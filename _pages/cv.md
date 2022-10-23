@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Dowload full CV [here]() (coming soon!)
+Dowload full CV [here](files/CV_MinoruHiga.pdf) (coming soon!)
 
 Education
 ======
