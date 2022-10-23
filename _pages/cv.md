@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Dowload full CV [here](mhigar.github.io/files/CV_MinoruHiga.pdf) (coming soon!)
+Dowload full CV [here](https://github.com/mhigar/mhigar.github.io/blob/380b3fe43020a67c147e9ef8f5bad3b901806b3d/files/CV_MinoruHiga.pdf) (coming soon!)
 
 Education
 ======
