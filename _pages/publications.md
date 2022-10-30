@@ -12,7 +12,9 @@ author_profile: true
 * _"Who work outdoors? Implication for Climate Change and Pandemics using Machine learning and text-as-data"_, with Jose Incio and Carlos Ospino.
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria. <br />
     (presented at 2022 [AAEA](https://www.aaea.org/) Annual Meeting)
-* _"COVID-19 and the Amazon rainforest"_, with Jerico Fiestas and Javier Montoya.
+* _"COVID-19 and the Amazon rainforest"_, with Jerico Fiestas and Javier Montoya. <br />
+    (presented at 2022 COLCA SAEE conference)
+
 
 **Working Papers**
 
