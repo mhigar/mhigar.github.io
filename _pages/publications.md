@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Working Papers**
-* _"Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico"_ (Job Market Paper)
+* _"Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico"_ (Job Market Paper) <br />
     (presented at 2022 CREEA Annual Conference and TWEEDS 2022)
 * _"Temperature, Work Time, and Intertemporal Labor Substitution: Evidence from Peru"_ <br />
     (previously circulated as _"Is it Too Hot to Work?"_ and presented at [EfD](https://efdinitiative.org/) Annual Meeting 2020, [SEEDS](http://www.sustainability-seeds.org/) Annual Workshop 2020, [CEA](https://www.economics.ca/cpages/home) 2021, [NAREA](http://www.narea.org/) 2021, and [CIREQ](https://www.cireqmontreal.com/) conference for climate change 2021).
