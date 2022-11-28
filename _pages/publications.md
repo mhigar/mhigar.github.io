@@ -26,6 +26,12 @@ author_profile: true
 **Work in Progress**
 * _"COVID-19 and the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya. <br />
     (presented at 2022 COLCA SAEE conference)
+    <details>
+      <summary>Abstract</summary>
+  
+      How do pandemics affect nature? We explore the effect of COVID-19 on deforestation in the Amazon rainforest in Peru. Using an event study design and a                 difference-in-differences approach, we find that COVID-19 increased deforestation by 40%. This increased CO2 emissions by more than 31 million tons, representing       a social cost of more than 5 times the national budget for forest management. The main mechanisms behind these findings are the reduction in monitoring efforts         combined with an increase in illegal activities. 
+    </details>  
+    
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria. <br />
     (presented at 2022 [AAEA](https://www.aaea.org/) Annual Meeting)
 * _"Who work outdoors? Implication for Climate Change and Pandemics using Machine learning and text-as-data"_, with Jose Incio and Carlos Ospino.
