@@ -17,8 +17,12 @@ author_profile: true
         
 * _"Is it Too Hot to Work? Evidence from Peru"_ <br />
     (presented at [EfD](https://efdinitiative.org/) Annual Meeting 2020, [SEEDS](http://www.sustainability-seeds.org/) Annual Workshop 2020, [CEA](https://www.economics.ca/cpages/home) 2021, [NAREA](http://www.narea.org/) 2021, and [CIREQ](https://www.cireqmontreal.com/) conference for climate change 2021).
-    
-    
+    <details>
+      <summary>Abstract</summary>
+  
+      Will raising temperatures due to climate change affect labor markets? This paper studies the effect of temperature on hours worked using panel data for Peru           from 2007-2015. I combine hours worked from household surveys with reanalysis and satellite weather data. I find evidence that hours worked are negatively             affected by hot temperatures. This effect is driven by informal jobs instead of jobs in industries highly exposed to the weather. These results suggest that           labor market segmentation may play a role in the impacts of climate change on labor market outcomes in developing countries.
+    </details>    
+
 **Work in Progress**
 * _"COVID-19 and the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya. <br />
     (presented at 2022 COLCA SAEE conference)
