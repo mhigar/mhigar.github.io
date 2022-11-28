@@ -34,6 +34,12 @@ author_profile: true
     
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria. <br />
     (presented at 2022 [AAEA](https://www.aaea.org/) Annual Meeting)
+    <details>
+      <summary>Abstract</summary>
+  
+      How would the projected massive migration to cities in the developing world impact the environment? We study the effect of urban growth on air pollution using         the exogenous Venezuelan diaspora to Colombia. We track migrants using the Facebook logins of users who created an account in Venezuela and are currently in           Colombia. Using a difference-in-difference approach and an instrumental variable approach, we find that migration increases PM 2.5. This result highlights the         need for labor market policies that allow newcomers to relocate to less polluting industries.
+    </details>     
+    
 * _"Who work outdoors? Implication for Climate Change and Pandemics using Machine learning and text-as-data"_, with Jose Incio and Carlos Ospino.
 
 
