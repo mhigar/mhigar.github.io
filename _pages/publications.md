@@ -16,7 +16,7 @@ author_profile: true
 
         
 * _"Is it Too Hot to Work? Evidence from Peru"_ <br />
-    (presented at [EfD](https://efdinitiative.org/) Annual Meeting 2020, [SEEDS](http://www.sustainability-seeds.org/) Annual Workshop 2020, [CEA](https://www.economics.ca/cpages/home) 2021, [NAREA](http://www.narea.org/) 2021, and [CIREQ](https://www.cireqmontreal.com/) conference for climate change 2021).
+    (presented at [EfD](https://efdinitiative.org/) Annual Meeting 2020, [SEEDS](http://www.sustainability-seeds.org/) Annual Workshop 2020, [CEA](https://www.economics.ca/cpages/home) 2021, [NAREA](http://www.narea.org/) 2021, and [CIREQ](https://www.cireqmontreal.com/) 2021).
     <details>
       <summary>Abstract</summary>
   
