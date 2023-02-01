@@ -21,7 +21,7 @@ My fields of interest are Environmental, Labor, Development, and Urban Economics
 
 **Updates:**
 
-My Job Market Paper has been accepted for 2022 AERE Summer Conference at Miami!
+My Job Market Paper has been accepted for 2023 PacDev Conference at Seattle!
 
 Thank you SFU ECON for such a generous [article](https://www.sfu.ca/economics/community/news/2022/05/minoru-higa.html) about our Community Engagement grants!
 
