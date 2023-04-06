@@ -21,11 +21,13 @@ My fields of interest are Environmental, Labor, Development, and Urban Economics
 
 **Updates:**
 
-My Job Market Paper has been accepted for [2023 PacDev Conference](https://cega.berkeley.edu/event/pacdev-2023/) at Seattle!
+My Job Market Paper has been accepted for [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference) at Portland, Maine!
+
+Will be attending the 2023 Mobility Network Summer School ["Measure what matters: Urban mobility in an era of climate emergency"](https://www.mobilitynetwork.utoronto.ca/event/mobility-network-summer-school-2023/) at University of Toronto!
 
 Thank you SFU ECON for such a generous [article](https://www.sfu.ca/economics/community/news/2022/05/minoru-higa.html) about our Community Engagement grants!
 
-Our [COVID-19 paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) just got accepted for publication!
+Our [COVID-19 paper](https://www.tandfonline.com/doi/full/10.1080/13504851.2022.2036319) just got published!
 
 
 
