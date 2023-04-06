@@ -7,13 +7,20 @@ author_profile: true
 
 **Working Papers**
 * _"Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico"_ ([Job Market Paper](https://mhigar.github.io/files/JMP_MinoruHiga.pdf)) <br />
-    (presented at 2022 CREEA Annual Conference and TWEEDS 2022)
+    (presented at 2022 CREEA Annual Conference, TWEEDS 2022, and PacDev 2023)
     <details>
       <summary>Abstract</summary>
   
       Does traffic congestion affect time allocation? I use highly granular smartphone data from Mexico City to study empirically how traffic congestion affects work-       time allocation. I find that traffic increases hours worked. The effect is driven by workers leaving work later, not by changes in arrival time. There is modest       evidence that labor income does not increase although total hours do. These results highlight an avoidance mechanism consistent with bottleneck models that has       been overlooked when estimating the costs of congestion. 
     </details>
 
+* _"Nobody's watching: COVID-19 impacts on the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya. <br />
+    (presented at 2022 COLCA SAEE conference)
+    <details>
+      <summary>Abstract</summary>
+  
+      How do pandemics affect nature? We explore the effect of COVID-19 on deforestation in the Amazon rainforest in Peru. Using an event study design and a                 difference-in-differences approach, we find that COVID-19 increased deforestation by 35%. This increased CO2 emissions by more than 4 million tons, representing       a social cost similar to the national budget for forest management. The main mechanisms behind these findings are the reduction in monitoring efforts combined         with an increase in illegal activities related to coca production and mining. 
+    </details>  
         
 * _"Is it Too Hot to Work? Evidence from Peru"_ <br />
     (presented at [EfD](https://efdinitiative.org/) Annual Meeting 2020, [SEEDS](http://www.sustainability-seeds.org/) Annual Workshop 2020, [CEA](https://www.economics.ca/cpages/home) 2021, [NAREA](http://www.narea.org/) 2021, and [CIREQ](https://www.cireqmontreal.com/) 2021).
@@ -24,14 +31,6 @@ author_profile: true
     </details>    
 
 **Work in Progress**
-* _"COVID-19 and the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya. <br />
-    (presented at 2022 COLCA SAEE conference)
-    <details>
-      <summary>Abstract</summary>
-  
-      How do pandemics affect nature? We explore the effect of COVID-19 on deforestation in the Amazon rainforest in Peru. Using an event study design and a                 difference-in-differences approach, we find that COVID-19 increased deforestation by 40%. This increased CO2 emissions by more than 31 million tons, representing       a social cost of more than 5 times the national budget for forest management. The main mechanisms behind these findings are the reduction in monitoring efforts         combined with an increase in illegal activities. 
-    </details>  
-    
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria. <br />
     (presented at 2022 [AAEA](https://www.aaea.org/) Annual Meeting)
     <details>
@@ -45,7 +44,7 @@ author_profile: true
 
 
 **Journal Publications**
-* _"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"_, forthcoming at _Applied Economics Letters_ (with Fernando Aragon and Carlos Ospino) [paper](https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319) - [working paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) <br />
+* _"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"_, _Applied Economics Letters_ 30:8, 1065-1076, 2023 (with Fernando Aragon and Carlos Ospino) [paper](https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319) - [working paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) <br />
 <!--     (presented at [UNU-WIDER](https://www.wider.unu.edu/event/covid-19-and-development-effects-and-new-realities-global-south) Development Conference 2021) -->
     
     
