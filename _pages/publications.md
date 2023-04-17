@@ -19,7 +19,7 @@ author_profile: true
     <details>
       <summary>Abstract</summary>
   
-      How do pandemics affect nature? We explore the effect of COVID-19 on deforestation in the Amazon rainforest in Peru. Using an event study design and a                 difference-in-differences approach, we find that COVID-19 increased deforestation by 35%. This increased CO2 emissions by more than 4 million tons, representing       a social cost similar to the national budget for forest management. The main mechanisms behind these findings are the reduction in monitoring efforts combined         with an increase in illegal activities related to coca production and mining. 
+      How do pandemics affect nature? We explore the effect of COVID-19 on deforestation in the Amazon rainforest in Peru. Using an event study design and a                 difference-in-differences approach, we find that COVID-19 increased deforestation by 35%. This increased CO2 emissions by more than 17 million tons, representing       a social cost equivalent to 3 times the national budget for forest management. The main mechanisms behind these findings are the reduction in monitoring efforts       combined with an increase in illegal activities related to coca production and mining. 
     </details>  
         
 * _"Is it Too Hot to Work? Evidence from Peru"_ <br />
