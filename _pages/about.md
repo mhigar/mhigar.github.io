@@ -25,7 +25,7 @@ Will be attending the [2023 Urban Economics Summer School](https://urbaneconomic
 
 My Job Market Paper has been accepted for [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference) at Portland, Maine!
 
-Will be attending the [2023 Mobility Network Summer School](https://www.mobilitynetwork.utoronto.ca/event/mobility-network-summer-school-2023/) at University of Toronto!
+Will be attending the [2023 Mobility Network Summer School](https://www.mobilitynetwork.utoronto.ca/event/mobility-network-summer-school-2023/) at U of Toronto!
 
 My Job Market Paper has been accepted for [2023  Emerging Mobility Scholars Conference](https://positivezero.civmin.utoronto.ca/travel-to-toronto/) at Toronto!
 
