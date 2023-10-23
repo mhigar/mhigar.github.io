@@ -20,6 +20,8 @@ Education
 
 Other Recent Training
 ======
+* 2023 [University of Toronto Mobility Network Summer School](https://www.mobilitynetwork.utoronto.ca/event/mobility-network-summer-school-2023/).
+* 2023 [Urban Economics Association Summer School](https://urbaneconomics.org/workshops/summerschool2023/).
 * 2021 [ESTIMATE](http://econ.msu.edu/estimate/index.php) by the Economics Department at Michigan State University.
 * 2021 [SFU Data Fellowships: AI Essentials](https://www.sfu.ca/big-data/data-fellowships/ai-essentials.html).
 * 2019 [UC Berkeley/Sloan Summer School in Environmental and Energy Economics](https://www.auffhammer.com/summer-school).
