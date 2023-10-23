@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Minoru Higa"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at SFU"
-  location         : "Vancouver, Canada"
+  bio              : "Assistant Professor at Uniandes"
+  location         : "Bogota, Colombia"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=n9C6UcgAAAAJ"
-  email            : minoru_higa@sfu.ca
+  email            : d.higa@uniandes.edu.co
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
