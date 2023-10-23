@@ -10,9 +10,7 @@ redirect_from:
 
 **Welcome!**
 
-I am a Ph.D. student in Economics at [Simon Fraser University](https://www.sfu.ca/economics/community/news/2020/05/sfu-economics-maintains-top-three-ranking-.html) (SFU). 
-
-I am on the 2022-2023 job market!
+I am an Assistant Professor in the School of Management at [Universidad de los Andes](https://uniandes.edu.co/en/university/ranking-and-accreditation). I received my Ph.D. in Economics from [Simon Fraser University](https://www.sfu.ca/economics/community/news/2020/05/sfu-economics-maintains-top-three-ranking-.html) (SFU). 
 
 My fields of interest are Environmental, Labor, Development, and Urban Economics. 
 
