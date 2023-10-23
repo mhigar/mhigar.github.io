@@ -19,13 +19,7 @@ My fields of interest are Environmental, Labor, Development, and Urban Economics
 
 **Updates:**
 
-Will be attending the [2023 Urban Economics Summer School](https://urbaneconomics.org/workshops/summerschool2023/) at Montreal!
-
-My Job Market Paper has been accepted for [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference) at Portland, Maine!
-
-Will be attending the [2023 Mobility Network Summer School](https://www.mobilitynetwork.utoronto.ca/event/mobility-network-summer-school-2023/) at U of Toronto!
-
-My Job Market Paper has been accepted for [2023  Emerging Mobility Scholars Conference](https://positivezero.civmin.utoronto.ca/travel-to-toronto/) at Toronto!
+I will present my research on Traffic Congesion at the [20th International Economic Association World Congress](https://ieawc2023.org/) in Medellin, and the [2023 LACEA and LAMES Conference](https://www.lacealames2023.org/) in Bogota!
 
 Thank you SFU ECON for such a generous [article](https://www.sfu.ca/economics/community/news/2022/05/minoru-higa.html) about our Community Engagement grants!
 
