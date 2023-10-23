@@ -13,7 +13,7 @@ Dowload full CV [here](https://mhigar.github.io/files/CV_MinoruHiga.pdf)
 
 Education
 ======
-* Ph.D. in Economics, Simon Fraser University (SFU), 2023 (expected)
+* Ph.D. in Economics, Simon Fraser University (SFU), 2023.
 * M.A. in Economics, University of California Santa Barbara (UCSB), 2015.
 * MSc. in Economics (cum laude), Tilburg University, 2011.
 * BSc. in Economics, Pontificia Universidad Catolica del Peru (PUCP), 2008.
