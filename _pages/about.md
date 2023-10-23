@@ -21,6 +21,8 @@ My fields of interest are Environmental, Labor, Development, and Urban Economics
 
 I will present my research on Traffic Congesion at the [20th International Economic Association World Congress](https://ieawc2023.org/) in Medellin, and the [2023 LACEA and LAMES Conference](https://www.lacealames2023.org/) in Bogota!
 
+Thrilled for been selected as a mentee in the [NAREA Career Advancement and Mentorship (CAM) Program](https://web.cvent.com/event/7b55727c-b6dd-40cd-8844-95df17a095d6/websitePage:6bba5cbe-caad-4fa4-b071-cfe26a492f00)!
+
 Thank you SFU ECON for such a generous [article](https://www.sfu.ca/economics/community/news/2022/05/minoru-higa.html) about our Community Engagement grants!
 
 
