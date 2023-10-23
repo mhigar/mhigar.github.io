@@ -7,7 +7,7 @@ author_profile: true
 
 **Working Papers**
 * _"Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico"_ ([Job Market Paper](https://mhigar.github.io/files/JMP_MinoruHiga.pdf)) <br />
-    (presented at 2022 CREEA Annual Conference, TWEEDS 2022, and PacDev 2023)
+    (presented at 2022 CREEA Annual Conference, TWEEDS 2022, PacDev 2023, [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference), and [2023 Emerging Mobility Scholars Conference](https://positivezero.civmin.utoronto.ca/travel-to-toronto/))
     <details>
       <summary>Abstract</summary>
   
