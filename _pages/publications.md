@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Working Papers**
-* _"Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico"_ ([Job Market Paper](https://mhigar.github.io/files/JMP_MinoruHiga.pdf)) <br />
+* _"Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico"_ <br />
     (presented at 2022 CREEA Annual Conference, TWEEDS 2022, PacDev 2023, [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference), and [2023 Emerging Mobility Scholars Conference](https://positivezero.civmin.utoronto.ca/travel-to-toronto/))
     <details>
       <summary>Abstract</summary>
@@ -14,12 +14,12 @@ author_profile: true
       Does traffic congestion affect time allocation? I use highly granular smartphone data from Mexico City to study empirically how traffic congestion affects work-       time allocation. I find that traffic increases hours worked. The effect is driven by workers leaving work later, not by changes in arrival time. There is modest       evidence that labor income does not increase although total hours do. These results highlight an avoidance mechanism consistent with bottleneck models that has       been overlooked when estimating the costs of congestion. 
     </details>
 
-* _"Nobody's Watching: COVID-19 impacts on the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya. <br />
+* _"Nobody's Watching: COVID-19 impacts on the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya (Submitted). <br />
     (presented at 2022 COLCA SAEE conference)
     <details>
       <summary>Abstract</summary>
   
-      How do pandemics affect nature? We explore the effect of COVID-19 on deforestation in the Amazon rainforest in Peru. Using an event study design and a                 difference-in-differences approach, we find that COVID-19 increased deforestation by 35%. This increased CO2 emissions by more than 17 million tons, representing       a social cost equivalent to 3 times the national budget for forest management. The main mechanisms behind these findings are the reduction in monitoring efforts       combined with an increase in illegal activities related to coca production and mining. 
+      How do pandemics may affect the Amazon rainforest? Using an event study design and a difference-in-differences approach, we find that COVID-19 increased deforestation by 35% across the Peruvian Amazon during the first pandemic year. This increased CO2 emissions by over 17 million tons, representing a social cost equivalent to 3 times the national budget for forest management. The main mechanism behind this was reduced monitoring investment and supervision, coupled with a rise in illicit activities tied to coca production and mining. These findings underscore the crucial role of monitoring and enforcement in averting forest loss in countries with weak forest governance. 
     </details>  
         
 * _"Is it Too Hot to Work? Evidence from Peru"_ <br />
