@@ -14,7 +14,7 @@ author_profile: true
       Does traffic congestion affect time allocation? I use highly granular smartphone data from Mexico City to study empirically how traffic congestion affects work-       time allocation. I find that traffic increases hours worked. The effect is driven by workers leaving work later, not by changes in arrival time. There is modest       evidence that labor income does not increase although total hours do. These results highlight an avoidance mechanism consistent with bottleneck models that has       been overlooked when estimating the costs of congestion. 
     </details>
 
-* _"Nobody's Watching: COVID-19, Monitoring, and the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya (_Under review_). 
+* _"Nobody's Watching: COVID-19, Monitoring, and the Amazon Rainforest"_, with Jerico Fiestas and Javier Montoya (_Submitted_). 
     <details>
       <summary>Abstract</summary>
   
