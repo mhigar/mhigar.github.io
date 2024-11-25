@@ -21,7 +21,7 @@ author_profile: true
       How do pandemics may affect the Amazon rainforest? Using an event study design and a difference-in-differences approach, we find that COVID-19 increased deforestation by 35% across the Peruvian Amazon during the first pandemic year. This increased CO2 emissions by over 17 million tons, representing a social cost equivalent to 3 times the national budget for forest management. The main mechanism behind this was reduced monitoring investment and supervision, coupled with a rise in illicit activities tied to coca production and mining. These findings underscore the crucial role of monitoring and enforcement in averting forest loss in countries with weak forest governance. 
     </details>  
         
-* _"Is it Too Hot to Work? Evidence from Peru"_ (_Submitted_)
+* _"Is it Too Hot to Work? Evidence from Peru"_ (_Revise and Resubmit_)
     <details>
       <summary>Abstract</summary>
   
