@@ -39,7 +39,6 @@ author_profile: true
     
 * _"Who work outdoors? Using Machine Learning, Text-as-Data, and Large Language Models (LLMs)"_, with Jose Incio and Carlos Ospino.
 
-* _"The Response of Colombia’s Manufacturing Sector to Changes in Energy Prices"_, with Pablo Ordonez and Mateus Souza.
 
 **Journal Publications**
 * _"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"_, _Applied Economics Letters_ 30:8, 1065-1076, 2023 (with Fernando Aragon and Carlos Ospino) [paper](https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319) - [working paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) <br />
