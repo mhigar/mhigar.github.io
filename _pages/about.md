@@ -19,6 +19,8 @@ My fields of interest are Environmental, Labor, Development, and Urban Economics
 
 **Updates:**
 
+Thrilled that my paper about Traffic Congestion has been accepted at the [International Transportation Economics Association (ITEA) Conference]([http://www.eaere-conferences.org/](https://transportation.northwestern.edu/news-events/itea2025/itea2025.html)) at Northwestern University!
+
 Elated that our paper about Deforestation in the Amazon Rainforest has been accepted at the [29th Annual Conference of the European Association of Environmental and Resource Economists](http://www.eaere-conferences.org/) in Belgium!
 
 Thrilled for been selected as a mentee in the [NAREA Career Advancement and Mentorship (CAM) Program](https://web.cvent.com/event/7b55727c-b6dd-40cd-8844-95df17a095d6/websitePage:6bba5cbe-caad-4fa4-b071-cfe26a492f00)!
