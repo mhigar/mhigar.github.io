@@ -38,7 +38,7 @@ author_profile: true
 <ol>
   <li value="2">
     <em>"COVID-19 impacts on Amazon Deforestation"</em>, 
-    <em>Trees, Forest and People</em>, Volume 20, 2025 
+    <em>Trees, Forests and People</em>, Volume 20, 2025 
     (with Jerico Fiestas and Javier Montoya) 
     <a href="https://doi.org/10.1016/j.tfp.2025.100888">paper</a>
     <!-- <details>
