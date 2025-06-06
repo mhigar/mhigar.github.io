@@ -45,6 +45,26 @@ author_profile: true
 1. _"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"_, _Applied Economics Letters_ 30:8, 1065-1076, 2023 (with Fernando Aragon and Carlos Ospino) [paper](https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319) - [working paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) <br />
 <!--     (presented at [UNU-WIDER](https://www.wider.unu.edu/event/covid-19-and-development-effects-and-new-realities-global-south) Development Conference 2021) -->
 
+<ol reversed>
+  <li>
+    <em>"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"</em>, 
+    <em>Trees, Forest and People</em>, Volume 20, 2025 
+    (with Jerico Fiestas and Javier Montoya) 
+    <a href="https://doi.org/10.1016/j.tfp.2025.100888">paper</a>
+    <!-- <details>
+      <summary>Abstract</summary>
+      We leverage spatial variation in the severity of the COVID-19 pandemic across Peru to examine its impacts on deforestation. We find that COVID-19 explains one-third of the deforestation increase in 2020...
+    </details> -->
+  </li>
+  
+  <li>
+    <em>"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"</em>, 
+    <em>Applied Economics Letters</em>, 30:8, 1065–1076, 2023 
+    (with Fernando Aragon and Carlos Ospino) 
+    <a href="https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319">paper</a> - 
+    <a href="https://ideas.repec.org/p/sfu/sfudps/dp21-10.html">working paper</a>
+  </li>
+</ol>
     
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
