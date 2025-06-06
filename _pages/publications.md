@@ -47,6 +47,7 @@ author_profile: true
     </details> -->
   </li>
 
+
   <li value="1">
     <em>"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"</em>, 
     <em>Applied Economics Letters</em>, 30:8, 1065–1076, 2023 
