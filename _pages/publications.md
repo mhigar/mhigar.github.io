@@ -41,7 +41,7 @@ author_profile: true
 
 
 **Journal Publications**
-* _"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"_, _Applied Economics Letters_ 30:8, 1065-1076, 2023 (with Fernando Aragon and Carlos Ospino) [paper](https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319) - [working paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) <br />
+1. * _"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"_, _Applied Economics Letters_ 30:8, 1065-1076, 2023 (with Fernando Aragon and Carlos Ospino) [paper](https://www.tandfonline.com/eprint/ZEJY7UNFNQAUNRV9ABH9/full?target=10.1080/13504851.2022.2036319) - [working paper](https://ideas.repec.org/p/sfu/sfudps/dp21-10.html) <br />
 <!--     (presented at [UNU-WIDER](https://www.wider.unu.edu/event/covid-19-and-development-effects-and-new-realities-global-south) Development Conference 2021) -->
     
     
