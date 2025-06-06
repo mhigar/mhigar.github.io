@@ -56,7 +56,7 @@ author_profile: true
   </li>
 </ol>
 
-<!-- 2. _"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"_,_Trees, Forest and People_ Volume 20, 2025 (with Jerico Fiestas and Javier Montoya [paper](https://doi.org/10.1016/j.tfp.2025.100888). 
+<!-- 2. _"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"_,_Trees, Forests and People_ Volume 20, 2025 (with Jerico Fiestas and Javier Montoya [paper](https://doi.org/10.1016/j.tfp.2025.100888). 
      <details>
       <summary>Abstract</summary>
   
