@@ -46,8 +46,9 @@ author_profile: true
       We leverage spatial variation in the severity of the COVID-19 pandemic across Peru to examine its impacts on deforestation...
     </details> -->
   </li>
-
-
+    
+    <br> <!-- adds space between the items -->
+    
   <li value="1">
     <em>"The Persistent Effects of COVID-19 on Labor Outcomes: Evidence from Peru"</em>, 
     <em>Applied Economics Letters</em>, 30:8, 1065–1076, 2023 
