@@ -36,6 +36,15 @@ author_profile: true
 **Journal Publications**
 
 <ol>
+  <li value="3">
+    <em>"COVID-19 impacts on Amazon Deforestation"</em>, 
+    <em>Environment and Development Economics</em>, forthcoming
+    <!-- <details>
+      <summary>Abstract</summary>
+      We leverage spatial variation in the severity of the COVID-19 pandemic across Peru to examine its impacts on deforestation...
+    </details> -->
+  </li> <br> <!-- adds space between the items -->
+    
   <li value="2">
     <em>"COVID-19 impacts on Amazon Deforestation"</em>, 
     <em>Trees, Forests and People</em>, Volume 20, 2025 
