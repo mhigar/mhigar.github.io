@@ -59,7 +59,7 @@ author_profile: true
   </li>
 </ol>
 
-<
+<!-- 
 * _"Is it Too Hot to Work? Evidence from Peru"_ (_Revise and Resubmit_)
     <details>
       <summary>Abstract</summary>
@@ -67,7 +67,7 @@ author_profile: true
       Will raising temperatures due to climate change affect labor markets? This paper studies the effect of temperature on hours worked using panel data for Peru           from 2007-2015. I combine hours worked from household surveys with reanalysis and satellite weather data. I find evidence that hours worked are negatively             affected by hot temperatures. This effect is driven by informal jobs instead of jobs in industries highly exposed to the weather. These results suggest that           labor market segmentation may play a role in the impacts of climate change on labor market outcomes in developing countries.
     </details>  
     
-    !-- 2. _"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"_,_Trees, Forests and People_ Volume 20, 2025 (with Jerico Fiestas and Javier Montoya [paper](https://doi.org/10.1016/j.tfp.2025.100888). 
+    2. _"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"_,_Trees, Forests and People_ Volume 20, 2025 (with Jerico Fiestas and Javier Montoya [paper](https://doi.org/10.1016/j.tfp.2025.100888). 
      <details>
       <summary>Abstract</summary>
   
