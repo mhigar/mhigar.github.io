@@ -13,13 +13,7 @@ author_profile: true
   
       Does traffic congestion affect time allocation? I use highly granular smartphone data from Mexico City to study empirically how traffic congestion affects work-       time allocation. I find that traffic increases hours worked. The effect is driven by workers leaving work later, not by changes in arrival time. There is modest       evidence that labor income does not increase although total hours do. These results highlight an avoidance mechanism consistent with bottleneck models that has been overlooked when estimating the costs of congestion. 
     </details>
-    
-* _"Is it Too Hot to Work? Evidence from Peru"_ (_Revise and Resubmit_)
-    <details>
-      <summary>Abstract</summary>
-  
-      Will raising temperatures due to climate change affect labor markets? This paper studies the effect of temperature on hours worked using panel data for Peru           from 2007-2015. I combine hours worked from household surveys with reanalysis and satellite weather data. I find evidence that hours worked are negatively             affected by hot temperatures. This effect is driven by informal jobs instead of jobs in industries highly exposed to the weather. These results suggest that           labor market segmentation may play a role in the impacts of climate change on labor market outcomes in developing countries.
-    </details>    
+      
 
 **Work in Progress**
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria. <br />
@@ -65,7 +59,15 @@ author_profile: true
   </li>
 </ol>
 
-<!-- 2. _"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"_,_Trees, Forests and People_ Volume 20, 2025 (with Jerico Fiestas and Javier Montoya [paper](https://doi.org/10.1016/j.tfp.2025.100888). 
+<
+* _"Is it Too Hot to Work? Evidence from Peru"_ (_Revise and Resubmit_)
+    <details>
+      <summary>Abstract</summary>
+  
+      Will raising temperatures due to climate change affect labor markets? This paper studies the effect of temperature on hours worked using panel data for Peru           from 2007-2015. I combine hours worked from household surveys with reanalysis and satellite weather data. I find evidence that hours worked are negatively             affected by hot temperatures. This effect is driven by informal jobs instead of jobs in industries highly exposed to the weather. These results suggest that           labor market segmentation may play a role in the impacts of climate change on labor market outcomes in developing countries.
+    </details>  
+    
+    !-- 2. _"COVID-19 and the Amazon Rainforest: impacts, CO2 emissions, and social cost"_,_Trees, Forests and People_ Volume 20, 2025 (with Jerico Fiestas and Javier Montoya [paper](https://doi.org/10.1016/j.tfp.2025.100888). 
      <details>
       <summary>Abstract</summary>
   
