@@ -37,7 +37,7 @@ author_profile: true
 
 <ol>
   <li value="3">
-    <em>"COVID-19 impacts on Amazon Deforestation"</em>, 
+    <em>"Is it Too Hot to Work? Evidence from Peru"</em>, 
     <em>Environment and Development Economics</em>, forthcoming
     <!-- <details>
       <summary>Abstract</summary>
