@@ -44,7 +44,7 @@ author_profile: true
     <em>"COVID-19 impacts on Amazon Deforestation"</em>, 
     <em>Trees, Forests and People</em>, Volume 20, 2025 
     (with Jerico Fiestas and Javier Montoya) 
-    <a href="https://doi.org/10.1016/j.tfp.2025.100888">paper</a>
+    <a href="https://doi.org/10.1016/j.tfp.2025.100888">paper</a> (open access)
     <!-- <details>
       <summary>Abstract</summary>
       We leverage spatial variation in the severity of the COVID-19 pandemic across Peru to examine its impacts on deforestation...
