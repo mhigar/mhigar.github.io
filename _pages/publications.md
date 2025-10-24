@@ -33,7 +33,7 @@ author_profile: true
   <li value="3">
     <em>"Is it Too Hot to Work? Evidence from Peru"</em>, 
     <em>Environment and Development Economics</em>, 1-20, 2025
-    <a href="[https://doi.org/10.1016/j.tfp.2025.100888](https://www.cambridge.org/core/journals/environment-and-development-economics/article/is-it-too-hot-to-work-evidence-from-peru/3FCD508528D34C377EE093A9BEA5FD4D?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)">paper</a> (open access)
+    <a href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/is-it-too-hot-to-work-evidence-from-peru/3FCD508528D34C377EE093A9BEA5FD4D?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark">paper</a> (open access)
     <!-- <details>
       <summary>Abstract</summary>
       We leverage spatial variation in the severity of the COVID-19 pandemic across Peru to examine its impacts on deforestation...
