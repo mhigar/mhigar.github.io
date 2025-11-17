@@ -26,6 +26,10 @@ author_profile: true
     
 * _"Who work outdoors? Using Machine Learning, Text-as-Data, and Large Language Models (LLMs)"_, with Jose Incio and Carlos Ospino.
 
+* _"The effect of crime concentration on deforestation: Evidence from Colombia"_, with Rodrigo Londono.
+
+* _"Climate Shocks and Informal Transitions"_, with Nicolas Guida-Johnson.
+
 
 **Journal Publications**
 
