@@ -13,6 +13,14 @@ author_profile: true
   
       Does traffic congestion affect time allocation? I use highly granular smartphone data from Mexico City to study empirically how traffic congestion affects work-       time allocation. I find that traffic increases hours worked. The effect is driven by workers leaving work later, not by changes in arrival time. There is modest       evidence that labor income does not increase although total hours do. These results highlight an avoidance mechanism consistent with bottleneck models that has been overlooked when estimating the costs of congestion. 
     </details>
+
+* _"When Simpler is Better: Task-Specific Machine Learning vs. Commercial LLMs for Labor Force Classification in Developing Countries"_, with Jose Incio and Carlos Ospino (submitted) <br /> 
+    (presented at 2022 CREEA Annual Conference, TWEEDS 2022, PacDev 2023, [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference), [2023 Emerging Mobility Scholars Conference](https://positivezero.civmin.utoronto.ca/travel-to-toronto/), [20th International Economic Association World Congress](https://ieawc2023.org/), and the [2023 LACEA and LAMES Conference](https://www.lacealames2023.org/))
+    <details>
+      <summary>Abstract</summary>
+  
+      Identifying which workers are exposed to outdoor environments is critical for climate adaptation, health, and labor policy, yet this information is rarely collected in household surveys. Using 234,104 observations from Peru’s national household survey (ENAHO, 2004–2018), we evaluate eight models–spanning traditional machine learning, a fine-tuned language model (Flan-T5), and commercial LLM APIs (GPT-4o, Claude 3.5 Sonnet)–for classifying workers as indoor or outdoor based on short Spanish task descriptions. Traditional ML models substantially outperform commercial LLMs on both accuracy and cost. Our findings demonstrate that AI can dramatically accelerate labor force characterization for research and policy, and that sophisticated commercial AI is not always superior to simpler task-specific alternatives.
+    </details>
       
 
 **Work in Progress**
@@ -23,8 +31,6 @@ author_profile: true
   
       How would the projected massive migration to cities in the developing world impact the environment? We study the effect of urban growth on air pollution using         the exogenous Venezuelan diaspora to Colombia. We track migrants using the Facebook logins of users who created an account in Venezuela and are currently in           Colombia. Using a difference-in-difference approach and an instrumental variable approach, we find that migration increases PM 2.5. This result highlights the         need for labor market policies that allow newcomers to relocate to less polluting industries.
     </details>     
-    
-* _"Who work outdoors? Using Machine Learning, Text-as-Data, and Large Language Models (LLMs)"_, with Jose Incio and Carlos Ospino.
 
 * _"The effect of crime concentration on deforestation: Evidence from Colombia"_, with Rodrigo Londono.
 
