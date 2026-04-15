@@ -15,7 +15,6 @@ author_profile: true
     </details>
 
 * _"When Simpler is Better: Task-Specific Machine Learning vs. Commercial LLMs for Labor Force Classification in Developing Countries"_, with Jose Incio and Carlos Ospino (submitted) <br /> 
-    (presented at 2022 CREEA Annual Conference, TWEEDS 2022, PacDev 2023, [2023 AERE Summer Conference](https://www.aere.org/aere-summer-conference), [2023 Emerging Mobility Scholars Conference](https://positivezero.civmin.utoronto.ca/travel-to-toronto/), [20th International Economic Association World Congress](https://ieawc2023.org/), and the [2023 LACEA and LAMES Conference](https://www.lacealames2023.org/))
     <details>
       <summary>Abstract</summary>
   
