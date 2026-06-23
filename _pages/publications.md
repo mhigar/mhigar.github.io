@@ -14,13 +14,20 @@ author_profile: true
       Does traffic congestion affect time allocation? I use highly granular smartphone data from Mexico City to study empirically how traffic congestion affects work-       time allocation. I find that traffic increases hours worked. The effect is driven by workers leaving work later, not by changes in arrival time. There is modest       evidence that labor income does not increase although total hours do. These results highlight an avoidance mechanism consistent with bottleneck models that has been overlooked when estimating the costs of congestion. 
     </details>
 
-* _"When Simpler is Better: Task-Specific Machine Learning vs. Commercial LLMs for Labor Force Classification in Developing Countries"_, with Jose Incio and Carlos Ospino (submitted) <br /> 
+* _"When Simpler is Better: Task-Specific Machine Learning vs. Commercial LLMs for Labor Force Classification in Developing Countries"_, with Jose Incio and Carlos Ospino <br /> 
     <details>
       <summary>Abstract</summary>
   
       Identifying which workers are exposed to outdoor environments is critical for climate adaptation, health, and labor policy, yet this information is rarely collected in household surveys. Using 234,104 observations from Peru’s national household survey (ENAHO, 2004–2018), we evaluate eight models–spanning traditional machine learning, a fine-tuned language model (Flan-T5), and commercial LLM APIs (GPT-4o, Claude 3.5 Sonnet)–for classifying workers as indoor or outdoor based on short Spanish task descriptions. Traditional ML models substantially outperform commercial LLMs on both accuracy and cost. Our findings demonstrate that AI can dramatically accelerate labor force characterization for research and policy, and that sophisticated commercial AI is not always superior to simpler task-specific alternatives.
     </details>
-      
+
+* _"Who Loses from Generative AI? AI Exposure and Career Inequality in the Online Labor Market"_, with Estrella Gomez-Herrera <br /> 
+    <details>
+      <summary>Abstract</summary>
+  
+      This paper studies whether generative AI has differentially affected junior workers in online labor markets. Using worker-month panel data from a large European freelance platform and a task-level AI exposure measure (AIOE), we exploit the release of ChatGPT in a triple-difference design across high- and low-exposure tasks. Junior workers in high-exposure tasks experience a 6.8 percent decline in client contacts, with no statistically detectable effect on prices conditional on winning. The penalty is concentrated at the opportunity-access stage of the hiring funnel: it does not appear at the worker-controlled response and proposal stages, and—conditional
+on a client contacting a worker—no robust penalty appears at the conversion or price stages. The contraction persists over nearly two years rather than attenuating, at the access stage falls disproportionately on junior women, and is concentrated in the platform’s algorithmic matching channel rather than in employer-initiated manual search. Because the algorithmic ranking function is a platform design choice, the findings identify a tractable governance lever and indicate that generative AI may reinforce career inequality by weakening entry access to knowledge-intensive online work.
+    </details>
 
 **Work in Progress**
 * _"Migration and Environmental Quality: Evidence from Facebook data in Colombia"_, with Pablo Ordonez and Julieth Santamaria. <br />
