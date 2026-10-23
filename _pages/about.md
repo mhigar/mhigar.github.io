@@ -19,11 +19,13 @@ My fields of interest are Environmental, Labor, Development, and Urban Economics
 
 **Updates:**
 
+Thrilled for been selected as a mentee in the [Society of Labor Economists (SOLE)](https://www.sole-jole.org/sole-mentoring) mentorship program for early-career researchers!
+
+Elated that my paper about climate change and labor supply has been cited by the OECD in their report about [Securing the Livelihoods of Informal Economy Workers in Times of Global Changes](https://www.oecd.org/en/publications/securing-the-livelihoods-of-informal-economy-workers-in-times-of-global-changes_7b0d17a9-en/full-report/informal-workers-and-emerging-risks-in-the-era-of-environmental-degradation-and-climate-change_3e3c5b34.html#section-d1e30422-b4b85db002)!
+
+Thrilled for obtaining the [TREES-EGAP small grant](https://trees.uniandes.edu.co/en/convocatoria/i-trees-egap-small-grants/) for our paper about the impact of AI on labor markets!
+
 Thrilled that my paper about Traffic Congestion has been accepted at the [International Transportation Economics Association (ITEA) Conference](https://transportation.northwestern.edu/news-events/itea2025/itea2025.html) at Northwestern University!
-
-Elated that our paper about Deforestation in the Amazon Rainforest has been accepted at the [29th Annual Conference of the European Association of Environmental and Resource Economists](http://www.eaere-conferences.org/) in Belgium!
-
-Thrilled for been selected as a mentee in the [NAREA Career Advancement and Mentorship (CAM) Program](https://web.cvent.com/event/7b55727c-b6dd-40cd-8844-95df17a095d6/websitePage:6bba5cbe-caad-4fa4-b071-cfe26a492f00)!
 
 Thank you SFU ECON for such a generous [article](https://www.sfu.ca/economics/community/news/2022/05/minoru-higa.html) about our Community Engagement grants!
 
